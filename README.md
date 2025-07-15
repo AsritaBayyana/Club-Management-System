@@ -1,14 +1,9 @@
-<<<<<<< HEAD
+
 # Club-Management-System
 =======
 # 🎓 College Club Website
 
 Welcome to the **College Club Website** — a fully responsive and interactive website designed for a college club to showcase events, share announcements, highlight team members, and engage with students. This project demonstrates modern web development practices with a focus on clean design, responsiveness, and usability.
-
----
-
-## 🚀 Live Demo
-https://neerajteja17.github.io/COLLEGE-CLUB-WEBSITE/index.html
 
 ---
 
@@ -40,4 +35,4 @@ https://neerajteja17.github.io/COLLEGE-CLUB-WEBSITE/index.html
 - **GitHub Pages**
 
 ---
->>>>>>> ab42118 (Added new files)
+
